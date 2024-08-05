@@ -6,7 +6,11 @@ render db : https://day-39-sm.onrender.com
 //packages install required:
 
 npm i React-dom
+
 npm i react-router-dom
+
 npm i bootstarp
+
 npm install
+
 npm start
